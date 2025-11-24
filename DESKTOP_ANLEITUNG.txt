@@ -1,0 +1,34 @@
+===================================================
+DESKTOP-VERKNÜPFUNGEN ANLEITUNG
+===================================================
+
+So erstellen Sie die Desktop-Buttons:
+
+1. KOPIEREN SIE DIESE DATEIEN AUF DEN DESKTOP:
+   - DESKTOP_FAST_MEDIUM.bat  → Für beste Genauigkeit
+   - DESKTOP_FAST_SMALL.bat   → Für schnellste Verarbeitung
+
+2. UMBENENNEN (Optional):
+   Auf dem Desktop können Sie die Dateien umbenennen:
+   - DESKTOP_FAST_MEDIUM.bat → "Sprache GENAU"
+   - DESKTOP_FAST_SMALL.bat  → "Sprache SCHNELL"
+
+3. VERWENDUNG:
+   - Doppelklick auf den gewünschten Button
+   - Das CMD-Fenster minimiert sich automatisch
+   - Dark Mode Fenster erscheint rechts unten
+   - STRG+Leertaste zum Starten/Stoppen
+
+4. UNTERSCHIEDE:
+   FAST MEDIUM:
+   - Genauigkeit: ⭐⭐⭐⭐⭐
+   - Geschwindigkeit: 2 Sekunden
+   - Ideal für: Wichtige Texte, E-Mails
+
+   FAST SMALL:
+   - Genauigkeit: ⭐⭐⭐⭐
+   - Geschwindigkeit: 1 Sekunde
+   - Ideal für: Schnelle Notizen, Chat
+
+===================================================
+Die Buttons funktionieren von überall auf dem Desktop!

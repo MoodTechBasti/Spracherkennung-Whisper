@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(del:*)",
+      "Bash(cmd:*)",
+      "Bash(dir:*)",
+      "Bash(python -c \"import os; [os.remove(f) for f in [''start_spracherkennung.bat'', ''spracherkennung.py'', ''start_medium.bat'', ''start_small.bat'', ''start_large_test.bat'', ''MODELL_EMPFEHLUNGEN.md'', ''start_faster_optimized.bat'', ''test_faster_whisper.py'', ''FASTER_WHISPER_INFO.md'', ''AIMP_INTEGRATION_INFO.md'', ''install_aimp_support.bat'', ''test_aimp.py'', ''test_fade.py'', ''FADE_UPDATE.md'', ''install_global_hotkey.bat'', ''HOTKEY_LOESUNGEN.md'', ''faster_medium_admin.bat'', ''test_global_hotkey.py'', ''install_autopaste.bat'', ''NEUE_FEATURES.md''] if os.path.exists(f)]\")",
+      "Bash(tree:*)",
+      "Bash(nul)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  },
+  "outputStyle": "default"
+}
