@@ -1,0 +1,29 @@
+# Spracherkennung mit Faster-Whisper - Abhängigkeiten
+# Optimiert für Intel i5-7200U mit 16GB RAM
+
+# Core Dependencies - Spracherkennung
+faster-whisper==1.0.3
+pyaudio==0.2.14
+
+# Zwischenablage & Auto-Paste
+pyperclip==1.9.0
+pyautogui==0.9.54
+
+# Globale Hotkeys
+keyboard==0.13.5
+pynput==1.7.7
+
+# AIMP Lautstärke-Kontrolle (Windows Audio API)
+pycaw==20240210
+comtypes==1.4.7
+
+# System-Monitoring
+psutil==6.1.0
+
+# Zusätzliche Dependencies für Faster-Whisper
+ctranslate2>=4.0.0
+tokenizers>=0.19.0
+onnxruntime>=1.16.0
+
+# Python Version: Python 3.8+
+# Installation: pip install -r requirements.txt
